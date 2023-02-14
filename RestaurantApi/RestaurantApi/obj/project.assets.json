@@ -231,11 +231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sridhar.Elumalai\\source\\repos\\RestaurantApi\\RestaurantApi\\RestaurantApi.csproj",
+      "projectUniqueName": "C:\\Users\\Sridhar.Elumalai\\Source\\Repos\\Restaurant-Asp.net-Web-Api\\RestaurantApi\\RestaurantApi\\RestaurantApi.csproj",
       "projectName": "RestaurantApi",
-      "projectPath": "C:\\Users\\Sridhar.Elumalai\\source\\repos\\RestaurantApi\\RestaurantApi\\RestaurantApi.csproj",
+      "projectPath": "C:\\Users\\Sridhar.Elumalai\\Source\\Repos\\Restaurant-Asp.net-Web-Api\\RestaurantApi\\RestaurantApi\\RestaurantApi.csproj",
       "packagesPath": "C:\\Users\\Sridhar.Elumalai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sridhar.Elumalai\\source\\repos\\RestaurantApi\\RestaurantApi\\obj\\",
+      "outputPath": "C:\\Users\\Sridhar.Elumalai\\Source\\Repos\\Restaurant-Asp.net-Web-Api\\RestaurantApi\\RestaurantApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
