@@ -6,7 +6,8 @@ namespace RestaurantApi.Model
     {
         [Key]
         public int CustomerId { get; set; }
-        public string CustomerName { get; set; }    
+        public string CustomerName { get; set; }
+        [Phone]
         public string MobileNumber { get; set; }
     }
 }
