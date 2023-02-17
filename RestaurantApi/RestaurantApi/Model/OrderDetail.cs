@@ -8,7 +8,6 @@ namespace RestaurantApi.Model
         [Key]
         public int OrderDetailId { get; set; }  
         public string OrderMasterId { get; set; }
-        public OrderMaster orderMaster { get; set; }
         public int FoodItemId { get; set; }
         [JsonIgnore]
         public FoodItem FoodItem { get; set; }  
