@@ -6,12 +6,12 @@ namespace RestaurantApi.Model
     public class OrderDetail
     {
         [Key]
-        public int OrderDetailId { get; set; }  
-        public string OrderMasterId { get; set; }
-        public int FoodItemId { get; set; }
+        public long OrderDetailId { get; set; }  
+        public long OrderMasterId { get; set; }
+        public int FoodItemId { get; set; } 
+        public decimal FoodItemPrice { get; set; }
+        public int Quantity { get; set; }
         [JsonIgnore]
-        public FoodItem FoodItem { get; set; }  
-        public string FoodItemPrice { get; set; }
-        public string Quantity { get; set; }    
+        public FoodItem? Fooditems  { get; set; }
     }
 }
