@@ -17,7 +17,7 @@ namespace RestaurantApi.Model
         [Column(TypeName = "nvarchar(75)")]
         public string? Payment { get; set; }
         public decimal Total { get; set; }
-        public List<OrderDetail> Details { get; set; }
+        public List<OrderDetail>? Details { get; set; }
 
     }
 }

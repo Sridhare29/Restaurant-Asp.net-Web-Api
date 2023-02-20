@@ -282,3 +282,5 @@ C:\Users\Sridhar.Elumalai\source\repos\Restaurant-Asp.net-Web-Api\RestaurantApi\
 C:\Users\Sridhar.Elumalai\source\repos\Restaurant-Asp.net-Web-Api\RestaurantApi\RestaurantApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Sridhar.Elumalai\source\repos\Restaurant-Asp.net-Web-Api\RestaurantApi\RestaurantApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Sridhar.Elumalai\source\repos\Restaurant-Asp.net-Web-Api\RestaurantApi\RestaurantApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sridhar.Elumalai\source\repos\Restaurant-Asp.net-Web-Api\RestaurantApi\RestaurantApi\obj\Debug\net6.0\RestaurantApi.Properties.Resources.resources
+C:\Users\Sridhar.Elumalai\source\repos\Restaurant-Asp.net-Web-Api\RestaurantApi\RestaurantApi\obj\Debug\net6.0\RestaurantApi.csproj.GenerateResource.cache
